@@ -1,19 +1,18 @@
 ![My friend, "Gotoro"](ponzu-banner.png)
 
-# Ponzu
+# Aether
 [![Current Release](https://img.shields.io/github/release/ponzu-cms/ponzu.svg)](https://github.com/ponzu-cms/ponzu/releases/latest)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/ponzu-cms/ponzu)
 [![CircleCI Build Status](https://circleci.com/gh/ponzu-cms/ponzu.svg?style=shield)](https://circleci.com/gh/ponzu-cms/ponzu/tree/master)
 
 > Watch the [**video introduction**](https://www.youtube.com/watch?v=T_1ncPoLgrg)
 
-Ponzu is a powerful and efficient open-source HTTP server framework and CMS. It 
+Aether is a powerful and efficient open-source HTTP server framework and CMS. It 
 provides automatic, free, and secure HTTP/2 over TLS (certificates obtained via 
 [Let's Encrypt](https://letsencrypt.org)), a useful CMS and scaffolding to 
 generate content editors, and a fast HTTP API on which to build modern applications.
 
-Ponzu is released under the BSD-3-Clause license (see LICENSE).
-(c) [Boss Sauce Creative, LLC](https://bosssauce.it)
+Aether is released under the BSD-3-Clause license (see LICENSE).
 
 ## Why?
 With the rise in popularity of web/mobile apps connected to JSON HTTP APIs, better 
